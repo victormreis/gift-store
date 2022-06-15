@@ -8,6 +8,7 @@ import { FooterComponent } from './footer/footer.component';
 import { CarrouselComponent } from './carrousel/carrousel.component';
 import { MainComponent } from './main/main.component';
 import { GetStartedComponent } from './get-started/get-started.component';
+import { OurBestComponent } from './our-best/our-best.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { GetStartedComponent } from './get-started/get-started.component';
     FooterComponent,
     CarrouselComponent,
     MainComponent,
-    GetStartedComponent
+    GetStartedComponent,
+    OurBestComponent
   ],
   imports: [
     BrowserModule,
