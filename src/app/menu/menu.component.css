@@ -1,0 +1,19 @@
+li a {
+  color: black;
+  margin-right: 10px;
+
+}
+li a:hover {
+  background-color: rgba(187, 108, 19, 0.473);
+  border-radius: 8px;
+
+}
+
+.margin-80{
+  margin-left: 80px;
+
+}
+.margin-34{
+  margin-right: 34px;
+
+}
