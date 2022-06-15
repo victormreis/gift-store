@@ -7,6 +7,7 @@ import { MenuComponent } from './menu/menu.component';
 import { FooterComponent } from './footer/footer.component';
 import { CarrouselComponent } from './carrousel/carrousel.component';
 import { MainComponent } from './main/main.component';
+import { GetStartedComponent } from './get-started/get-started.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { MainComponent } from './main/main.component';
     MenuComponent,
     FooterComponent,
     CarrouselComponent,
-    MainComponent
+    MainComponent,
+    GetStartedComponent
   ],
   imports: [
     BrowserModule,
